@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/HsuanPeng/Co-work-stylish-front-end/static/js/main.f17506af.js",
+    "static/media/PingFang-TC-Thin-2.otf": "/HsuanPeng/Co-work-stylish-front-end/static/media/PingFang-TC-Thin-2.a44c12820c7ce36b8aee.otf",
+    "static/media/PingFang-TC-Regular-2.otf": "/HsuanPeng/Co-work-stylish-front-end/static/media/PingFang-TC-Regular-2.f72d2153d84aeafecae8.otf",
+    "static/media/NotoSansTC-Bold.otf": "/HsuanPeng/Co-work-stylish-front-end/static/media/NotoSansTC-Bold.ad1bddadd1f6b41fe4e7.otf",
+    "static/media/NotoSansTC-Regular.otf": "/HsuanPeng/Co-work-stylish-front-end/static/media/NotoSansTC-Regular.b018ff7b4ccc245480a4.otf",
+    "static/media/track.png": "/HsuanPeng/Co-work-stylish-front-end/static/media/track.cfb6c6c2e70fa7691899.png",
+    "static/media/personhead.png": "/HsuanPeng/Co-work-stylish-front-end/static/media/personhead.a6a38721b1dd80b264dd.png",
+    "static/media/bell.png": "/HsuanPeng/Co-work-stylish-front-end/static/media/bell.9519fe5289b1ea141b3f.png",
+    "index.html": "/HsuanPeng/Co-work-stylish-front-end/index.html",
+    "main.f17506af.js.map": "/HsuanPeng/Co-work-stylish-front-end/static/js/main.f17506af.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f17506af.js"
+  ]
+}
